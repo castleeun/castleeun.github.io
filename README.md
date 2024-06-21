@@ -14,4 +14,5 @@
 http://127.0.0.1:5500/castleeun/main.html#about
 
 <깃허브 주소>
+https://github.com/castleeun/castleeun.github.io.git
 
